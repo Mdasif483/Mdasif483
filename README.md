@@ -70,27 +70,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mdasif483&theme=react-dark&bg_color=0D1117&color=A5E9DD&line=A5E9DD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
----
-
-### 📊 **GitHub Profile Summary**
-
-<p align="center">
-  <a href="https://github.com/Mdasif483?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mdasif483?style=for-the-badge&logo=github&logoColor=0D1117&label=FOLLOWERS&color=A5E9DD&labelColor=0D1117" alt="Followers" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Mdasif483?tab=repositories">
-    <img src="https://img.shields.io/github/repos/m/Mdasif483?style=for-the-badge&logo=github&logoColor=0D1117&label=REPOSITORIES&color=A5E9DD&labelColor=0D1117" alt="Repositories" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Mdasif483">
-    <img src="https://img.shields.io/github/commit-activity/y/Mdasif483/Mdasif483?style=for-the-badge&logo=git&logoColor=0D1117&label=COMMITS&color=A5E9DD&labelColor=0D1117" alt="Total Commits" />
-  </a>
-</p>
-
----
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=12,15,20&height=100&section=footer" width="100%" />
