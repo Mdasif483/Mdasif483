@@ -13,7 +13,6 @@
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=A5E9DD&borderColor=A5E9DD" /></a>
 </p>
 
----
 
 ### 👨‍💻 **About Me**
 
@@ -21,8 +20,6 @@
 - 🌱 **Learning:** Advanced System Architecture & Cloud Deployment.
 - 💬 **Ask me about:** MongoDB, Express.js, React.js, Node.js, and REST APIs.
 - ⚡ **Goal:** Building scalable, clean, and high-performance web applications.
-
----
 
 ### 🛠️ **MERN & Tech Stack**
 
@@ -46,7 +43,6 @@
   <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=A5E9DD" />
 </p>
 
----
 ### 📊 **Real-Time GitHub Activity & Overview**
 
 <!-- Top Row: Real Live Metrics Badges (100% Reliable & Always Active) -->
@@ -68,11 +64,6 @@
   <img src="https://quickchart.io/chart?bkg=%230D1117&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27React.js%27%2C%27JavaScript%27%2C%27HTML%2FCSS%27%2C%27Node.js%27%2C%27Express.js%27%2C%27MongoDB%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B40%2C25%2C15%2C10%2C5%2C5%5D%2CbackgroundColor%3A%5B%27%23A5E9DD%27%2C%27%2368C8B9%27%2C%27%2348A89A%27%2C%27%232E887B%27%2C%27%231A685D%27%2C%27%230E483E%27%5D%2CborderColor%3A%27%230D1117%27%2CborderWidth%3A3%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bcolor%3A%27%23FFFFFF%27%2Cfont%3A%7Bsize%3A14%2Cfamily%3A%27sans-serif%27%7D%7D%7D%7D%2Ccutout%3A%2765%25%27%7D%7D" width="480" alt="MERN Stack Breakdown" />
 </p>
 
----
-    
-
----
-
 ### 📊 **GitHub Activity Graph**
 
 <p align="center">
@@ -84,11 +75,11 @@
 ### 📈 **Detailed Stats & Languages**
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Mdasif483&layout=compact&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- Top Languages (Stable Server) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=Mdasif483&layout=compact&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&hide_border=true" width="48%" alt="Top Languages" />
   
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mdasif483&show_icons=true&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <!-- GitHub Stats (Fast Mirror Server) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mdasif483&show_icons=true&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
 </p>
 
 
