@@ -71,21 +71,27 @@
 ---
     
 
+---
 
+### 📊 **GitHub Activity Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mdasif483&theme=react-dark&bg_color=0D1117&color=A5E9DD&line=A5E9DD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
-
-### 📊 **Real-time GitHub Activity & Metrics**
+### 📈 **Detailed Stats & Languages**
 
 <p align="center">
-  <!-- Dynamic Real-time Metrics Card -->
-  <img src="https://metrics.lecoq.io/Mdasif483?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=Asia%2FKolkata&theme=dark" width="98%" alt="Asif's GitHub Metrics" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Mdasif483&layout=compact&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&hide_border=true" width="48%" alt="Top Languages" />
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mdasif483&show_icons=true&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
 </p>
 
 
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=12,15,20&height=100&section=footer" width="100%" />
