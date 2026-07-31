@@ -47,16 +47,19 @@
 </p>
 
 ---
+### 📊 **Real-Time GitHub Activity & Overview**
 
----
-
-### 📊 **GitHub Activity Graph**
-
+<!-- Top Row: Real Live Metrics Badges (100% Reliable & Always Active) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mdasif483&theme=react-dark&bg_color=0D1117&color=A5E9DD&line=A5E9DD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://img.shields.io/github/followers/Mdasif483?style=for-the-badge&logo=github&color=A5E9DD&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/github/repos/m/Mdasif483?style=for-the-badge&logo=github&color=A5E9DD&labelColor=0D1117&label=Total%20Repos" alt="Total Repos" />
+  <img src="https://img.shields.io/github/commit-activity/m/Mdasif483/Mdasif483?style=for-the-badge&logo=git&color=A5E9DD&labelColor=0D1117&label=Commits" alt="Commits" />
 </p>
 
----
+<!-- Detailed Real-time Card -->
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mdasif483&show_icons=true&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&border_color=A5E9DD&count_private=true&include_all_commits=true&hide=stars,prs,contribs" width="85%" alt="Real-time Stats" />
+</p>
 
 ### 📊 **Real GitHub Projects Breakdown**
 
