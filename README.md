@@ -52,20 +52,22 @@
 
 ### 📊 **GitHub Activity Graph**
 
+### 📊 **Real GitHub Projects Breakdown**
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mdasif483&theme=react-dark&bg_color=0D1117&color=A5E9DD&line=A5E9DD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Mdasif483&layout=donut&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&border_color=A5E9DD&hide_border=false" width="480" alt="Real Project Skills" />
 </p>
 
 ---
 
-### 📊 **Core Tech Breakdown**
+
 
 <p align="center">
   <svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg">
     <!-- Background Card -->
     <rect width="100%" height="100%" fill="#0D1117" rx="12" stroke="#A5E9DD" stroke-width="1.5"/>
     
-   ---
+
 
 ### 📊 **Core Tech Breakdown**
 
@@ -75,7 +77,6 @@
 
 ---
 
----
 
 ### 🔥 **Commit Streak**
 
