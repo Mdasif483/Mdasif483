@@ -58,14 +58,50 @@
 
 ---
 
-### 📈 **Detailed Stats & Languages**
-### 📊 **Language Breakdown**
+### 📊 **Core Tech Breakdown**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-60%25-111111?style=for-the-badge&logo=javascript&logoColor=A5E9DD&labelColor=000000" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS-25%25-111111?style=for-the-badge&logo=html5&logoColor=A5E9DD&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Python-10%25-111111?style=for-the-badge&logo=python&logoColor=A5E9DD&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Other-5%25-111111?style=for-the-badge&logo=github&logoColor=A5E9DD&labelColor=000000" />
+<p align="center">
+  <svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Card -->
+    <rect width="100%" height="100%" fill="#0D1117" rx="12" stroke="#A5E9DD" stroke-width="1.5"/>
+    
+    <!-- Donut Chart Circles -->
+    <g transform="translate(110, 110) rotate(-90)">
+      <!-- React.js (35%) -->
+      <circle r="60" cx="0" cy="0" fill="transparent" stroke="#A5E9DD" stroke-width="24" stroke-dasharray="132 245" />
+      <!-- HTML & CSS (20%) -->
+      <circle r="60" cx="0" cy="0" fill="transparent" stroke="#52B2A3" stroke-width="24" stroke-dasharray="75 302" stroke-dashoffset="-132" />
+      <!-- JavaScript (18%) -->
+      <circle r="60" cx="0" cy="0" fill="transparent" stroke="#2E7D73" stroke-width="24" stroke-dasharray="68 309" stroke-dashoffset="-207" />
+      <!-- Node.js & Express (15%) -->
+      <circle r="60" cx="0" cy="0" fill="transparent" stroke="#1A4A44" stroke-width="24" stroke-dasharray="57 320" stroke-dashoffset="-275" />
+      <!-- MongoDB (12%) -->
+      <circle r="60" cx="0" cy="0" fill="transparent" stroke="#88D4C7" stroke-width="24" stroke-dasharray="45 332" stroke-dashoffset="-332" />
+    </g>
+    
+    <!-- Legend Items -->
+    <g transform="translate(230, 35)" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+      <!-- React -->
+      <rect x="0" y="0" width="12" height="12" rx="3" fill="#A5E9DD"/>
+      <text x="22" y="11" fill="#FFFFFF">React.js (35%)</text>
+      
+      <!-- HTML & CSS -->
+      <rect x="0" y="28" width="12" height="12" rx="3" fill="#52B2A3"/>
+      <text x="22" y="39" fill="#FFFFFF">HTML / CSS (20%)</text>
+      
+      <!-- JavaScript -->
+      <rect x="0" y="56" width="12" height="12" rx="3" fill="#2E7D73"/>
+      <text x="22" y="67" fill="#FFFFFF">JavaScript (18%)</text>
+      
+      <!-- Node & Express -->
+      <rect x="0" y="84" width="12" height="12" rx="3" fill="#1A4A44"/>
+      <text x="22" y="95" fill="#FFFFFF">Node.js / Express (15%)</text>
+      
+      <!-- MongoDB -->
+      <rect x="0" y="112" width="12" height="12" rx="3" fill="#88D4C7"/>
+      <text x="22" y="123" fill="#FFFFFF">MongoDB (12%)</text>
+    </g>
+  </svg>
 </p>
 
 ---
