@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://github.com/Mdasif483"><img src="https://img.shields.io/badge/GitHub-Mdasif483-black?style=for-the-badge&logo=github&logoColor=A5E9DD&borderColor=A5E9DD" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail&logoColor=A5E9DD&borderColor=A5E9DD" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=A5E9DD&borderColor=A5E9DD" /></a>
+  <a href="mailto:mohdasif11996786@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail&logoColor=A5E9DD&borderColor=A5E9DD" /></a>
+  <a href="https://linkedin.com/in/mohd-asif-094447331"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=A5E9DD&borderColor=A5E9DD" /></a>
 </p>
 
 
