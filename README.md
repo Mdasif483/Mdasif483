@@ -59,13 +59,13 @@
 ---
 
 ### 📈 **Detailed Stats & Languages**
+### 📊 **Language Breakdown**
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Mdasif483&layout=compact&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&hide_border=true" width="48%" alt="Top Languages" />
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mdasif483&show_icons=true&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-60%25-111111?style=for-the-badge&logo=javascript&logoColor=A5E9DD&labelColor=000000" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-25%25-111111?style=for-the-badge&logo=html5&logoColor=A5E9DD&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Python-10%25-111111?style=for-the-badge&logo=python&logoColor=A5E9DD&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Other-5%25-111111?style=for-the-badge&logo=github&logoColor=A5E9DD&labelColor=000000" />
 </p>
 
 ---
