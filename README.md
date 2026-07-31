@@ -1,77 +1,81 @@
-<!-- Replace 'N4si' and other details with your own. For the specific Black and Teal theme, we use custom GitHub stats API calls. -->
-
-# Hi there! ⚡️
+<!-- Header Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=12,15,20&height=220&section=header&text=Hi%20there,%20I'm%20Asif%20👋&fontSize=42&fontColor=A5E9DD&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hey-Nasiullha%20Chaudhari-black?style=for-the-badge&logo=opsgenie&logoColor=%23A5E9DD" alt="Header Badge">
-  <img src="https://img.shields.io/badge/Role-DevOps%20Engineer-black?style=for-the-badge&logo=dev.to&logoColor=%23A5E9DD" alt="Role Badge">
-  <img src="https://img.shields.io/badge/From-India%20🇮🇳-black?style=for-the-badge&logo=googlemaps&logoColor=%23A5E9DD" alt="Country Badge">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A5E9DD&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+%F0%9F%92%BB;Full+Stack+Web+Developer+%E2%9A%A1;Building+Modern+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mdasif483"><img src="https://img.shields.io/badge/GitHub-Mdasif483-black?style=for-the-badge&logo=github&logoColor=A5E9DD&borderColor=A5E9DD" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail&logoColor=A5E9DD&borderColor=A5E9DD" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=A5E9DD&borderColor=A5E9DD" /></a>
 </p>
 
 ---
 
-## 👨‍💻 **Stats & Metrics (The Black/Teal Theme)**
+### 👨‍💻 **About Me**
 
-<p align="center">
-  <!-- Custom GitHub Stats in Teal -->
-  <a href="https://github.com/N4si">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=N4si&show_icons=true&title_color=A5E9DD&icon_color=A5E9DD&text_color=FFFFFF&bg_color=1A1A1A&border_color=A5E9DD&count_private=true" alt="Github Stats" />
-  </a>
-  <!-- Custom Top Languages in Teal -->
-  <a href="https://github.com/N4si">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-languages/?username=N4si&layout=compact&title_color=A5E9DD&icon_color=A5E9DD&text_color=FFFFFF&bg_color=1A1A1A&border_color=A5E9DD" alt="Top Languages" />
-  </a>
-</p>
+- 🔭 **Currently working on:** Full-stack MERN applications & web solutions.
+- 🌱 **Learning:** Advanced System Architecture & Cloud Deployment.
+- 💬 **Ask me about:** MongoDB, Express.js, React.js, Node.js, and REST APIs.
+- ⚡ **Goal:** Building scalable, clean, and high-performance web applications.
 
 ---
 
-## 🛠️ **Tech Stack**
+### 🛠️ **MERN & Tech Stack**
 
 <p align="left">
-  <!-- Grouped & Tidy Badges with Teal Color Accents -->
-  <b>Cloud & Infrastructure:</b>
-  <br>
-  <img src="https://img.shields.io/badge/AWS-%23A5E9DD.svg?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="AWS">
-  <img src="https://img.shields.io/badge/Google%20Cloud-%23A5E9DD.svg?style=for-the-badge&logo=google-cloud&logoColor=black" alt="GCP">
-  <img src="https://img.shields.io/badge/Kubernetes-%23A5E9DD.svg?style=for-the-badge&logo=kubernetes&logoColor=black" alt="K8s">
-  <img src="https://img.shields.io/badge/Docker-%23A5E9DD.svg?style=for-the-badge&logo=docker&logoColor=black" alt="Docker">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=A5E9DD" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=A5E9DD" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=A5E9DD" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=A5E9DD" />
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=A5E9DD" />
   <br><br>
-  <b>Languages & Back-End:</b>
-  <br>
-  <img src="https://img.shields.io/badge/Python-%23A5E9DD.svg?style=for-the-badge&logo=python&logoColor=black" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-%23A5E9DD.svg?style=for-the-badge&logo=php&logoColor=black" alt="PHP">
-  <img src="https://img.shields.io/badge/Bash-%23A5E9DD.svg?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="Bash">
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=A5E9DD" />
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=A5E9DD" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=A5E9DD" />
+  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=A5E9DD" />
   <br><br>
-  <b>Databases:</b>
-  <br>
-  <img src="https://img.shields.io/badge/Postgres-%23A5E9DD.svg?style=for-the-badge&logo=postgresql&logoColor=black" alt="Postgres">
-  <img src="https://img.shields.io/badge/Mongo-%23A5E9DD.svg?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=A5E9DD" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=A5E9DD" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=A5E9DD" />
 </p>
 
 ---
 
-## 🌍 **Connect & Socials**
+### 📊 **GitHub Activity Graph**
 
 <p align="center">
-  <!-- Consistent, Flat, and High-Contrast Buttons -->
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:nasiullha@gmail.com"><img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Mdasif483&theme=react-dark&bg_color=0D1117&color=A5E9DD&line=A5E9DD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
-## ⚓ **Featured Art / Personal Touch**
+### 📈 **Detailed Stats & Languages**
 
 <p align="center">
-  <!-- Kept Zoro, but optimized layout -->
-  <img width="500" src="YOUR_IMAGE_LINK_TO_THE_ZORO_PNG_HERE" alt="Zoro Profile Pic" />
+  <!-- Top Languages by Repo -->
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Mdasif483&layout=donut&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&bg_color=0D1117&border_color=A5E9DD&border_radius=10" width="48%" />
+  
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mdasif483&show_icons=true&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&bg_color=0D1117&border_color=A5E9DD&border_radius=10&count_private=true" width="48%" />
 </p>
 
 ---
 
-## 📈 **GitHub Activity Streak**
+### 🔥 **Commit Streak**
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N4si&theme=midnight-teal&hide_border=true&ring=A5E9DD&fire=A5E9DD" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdasif483&theme=dark&background=0D1117&border=A5E9DD&stroke=A5E9DD&ring=A5E9DD&fire=A5E9DD&currStreakNum=A5E9DD&sideNums=FFFFFF&sideTitle=A5E9DD" width="97%" alt="Streak Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=12,15,20&height=100&section=footer" width="100%" />
 </p>
