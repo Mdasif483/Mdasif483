@@ -48,10 +48,12 @@
 
 ---
 
+---
+
 ### 📊 **GitHub Activity Graph**
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Mdasif483&theme=react-dark&bg_color=0D1117&color=A5E9DD&line=A5E9DD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mdasif483&theme=react-dark&bg_color=0D1117&color=A5E9DD&line=A5E9DD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -59,11 +61,11 @@
 ### 📈 **Detailed Stats & Languages**
 
 <p align="center">
-  <!-- Top Languages by Repo -->
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Mdasif483&layout=donut&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&bg_color=0D1117&border_color=A5E9DD&border_radius=10" width="48%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Mdasif483&layout=compact&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&hide_border=true" width="48%" alt="Top Languages" />
   
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mdasif483&show_icons=true&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&bg_color=0D1117&border_color=A5E9DD&border_radius=10&count_private=true" width="48%" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mdasif483&show_icons=true&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
 </p>
 
 ---
