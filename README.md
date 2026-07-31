@@ -52,20 +52,20 @@
 
 ### 📊 **GitHub Activity Graph**
 
-### 📊 **Real GitHub Projects Breakdown**
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Mdasif483&layout=donut&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&border_color=A5E9DD&hide_border=false" width="480" alt="Real Project Skills" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mdasif483&theme=react-dark&bg_color=0D1117&color=A5E9DD&line=A5E9DD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
-
+### 📊 **Real GitHub Projects Breakdown**
 
 <p align="center">
-  <svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background Card -->
-    <rect width="100%" height="100%" fill="#0D1117" rx="12" stroke="#A5E9DD" stroke-width="1.5"/>
+  <!-- Working QuickChart Donut Image (No Server Downtime) -->
+  <img src="https://quickchart.io/chart?bkg=%230D1117&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27React.js%27%2C%27JavaScript%27%2C%27HTML%2FCSS%27%2C%27Node.js%27%2C%27Express.js%27%2C%27MongoDB%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B40%2C25%2C15%2C10%2C5%2C5%5D%2CbackgroundColor%3A%5B%27%23A5E9DD%27%2C%27%2368C8B9%27%2C%27%2348A89A%27%2C%27%232E887B%27%2C%27%231A685D%27%2C%27%230E483E%27%5D%2CborderColor%3A%27%230D1117%27%2CborderWidth%3A3%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bcolor%3A%27%23FFFFFF%27%2Cfont%3A%7Bsize%3A14%2Cfamily%3A%27sans-serif%27%7D%7D%7D%7D%2Ccutout%3A%2765%25%27%7D%7D" width="480" alt="MERN Stack Breakdown" />
+</p>
+
+---
     
 
 
