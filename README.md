@@ -72,26 +72,20 @@
 
 ---
 
-### 📈 **GitHub Activity & Analytics Dashboard**
+### 📊 **GitHub Profile Summary**
 
-<!-- Top Metrics Cards Grid (Real-time & Zero-filtered) -->
 <p align="center">
-  <a href="https://github.com/Mdasif483">
+  <a href="https://github.com/Mdasif483?tab=followers">
     <img src="https://img.shields.io/github/followers/Mdasif483?style=for-the-badge&logo=github&logoColor=0D1117&label=FOLLOWERS&color=A5E9DD&labelColor=0D1117" alt="Followers" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Mdasif483?tab=repositories">
     <img src="https://img.shields.io/github/repos/m/Mdasif483?style=for-the-badge&logo=github&logoColor=0D1117&label=REPOSITORIES&color=A5E9DD&labelColor=0D1117" alt="Repositories" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Mdasif483">
-    <img src="https://img.shields.io/github/commit-activity/y/Mdasif483/Mdasif483?style=for-the-badge&logo=git&logoColor=0D1117&label=TOTAL%20COMMITS&color=A5E9DD&labelColor=0D1117" alt="Commits" />
+    <img src="https://img.shields.io/github/commit-activity/y/Mdasif483/Mdasif483?style=for-the-badge&logo=git&logoColor=0D1117&label=COMMITS&color=A5E9DD&labelColor=0D1117" alt="Total Commits" />
   </a>
-</p>
-
-<!-- Real GitHub Live Activity Graph (Teal Theme) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mdasif483&theme=react-dark&bg_color=0D1117&color=A5E9DD&line=A5E9DD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Mdasif483 Activity Graph" />
 </p>
 
 ---
