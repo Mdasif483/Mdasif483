@@ -73,10 +73,16 @@
 ---
 
 
-### 🔥 **Commit Streak**
+### 📊 **Real-time GitHub Activity & Metrics**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdasif483&theme=dark&background=0D1117&border=A5E9DD&stroke=A5E9DD&ring=A5E9DD&fire=A5E9DD&currStreakNum=A5E9DD&sideNums=FFFFFF&sideTitle=A5E9DD" width="97%" alt="Streak Stats" />
+  <!-- Dynamic Real-time Metrics Card -->
+  <img src="https://metrics.lecoq.io/Mdasif483?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=Asia%2FKolkata&theme=dark" width="98%" alt="Asif's GitHub Metrics" />
+</p>
+
+<p align="center">
+  <!-- Repos & Commits Summary (Vercel Stable Server) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mdasif483&show_icons=true&theme=dark&bg_color=0D1117&title_color=A5E9DD&text_color=FFFFFF&icon_color=A5E9DD&border_color=A5E9DD&count_private=true&include_all_commits=true" width="98%" alt="GitHub Detailed Overview" />
 </p>
 
 ---
